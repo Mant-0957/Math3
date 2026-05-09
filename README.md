@@ -9,6 +9,7 @@ This project simulates the work of a data analyst in a public health research or
 The project combines theoretical understanding with practical implementation using Python libraries including NumPy, Pandas, SciPy, StatsModels, Matplotlib, and Seaborn.
 
 Objectives
+
 Apply inferential statistics on healthcare data
 Formulate and test statistical hypotheses
 Compute confidence intervals and p-values
@@ -21,6 +22,7 @@ Dataset Description
 The dataset contains simulated public health records with the following variables:
 
 Column Name	Description
+
 record_id	Unique identifier
 age	Age of individual
 age_group	Categorized age range
@@ -63,7 +65,9 @@ H₁: Smoking affects diabetes prevalence.
 Hypothesis 2
 H₀: Mean blood pressure is equal across all regions.
 H₁: Mean blood pressure differs across regions.
+
 Technologies Used
+
 Python
 Jupyter Notebook
 Pandas
