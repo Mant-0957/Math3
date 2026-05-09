@@ -24,45 +24,84 @@ The dataset contains simulated public health records with the following variable
 Column Name	Description
 
 record_id	Unique identifier
+
 age	Age of individual
+
 age_group	Categorized age range
+
 weight	Weight of individual
+
 gender	Gender category
+
 region	Geographic region
+
 smoking_status	Smoking habit
+
 exercise_frequency	Exercise frequency
+
 bmi	Body Mass Index
+
 blood_pressure	Systolic blood pressure
+
 diabetes	Diabetes diagnosis
+
 hypertension	Hypertension diagnosis
+
 cholesterol_level	Cholesterol level
+
 glucose_level	Glucose level
+
 visit_date	Date of medical visit
+
 Statistical Techniques Implemented
+
 Inferential Statistics
+
 Hypothesis formulation
+
 Statistical decision-making
+
 Interpretation of significance
+
 Confidence Intervals
+
 Mean estimation
+
 Margin of error calculation
+
 Hypothesis Testing
+
 z-test
+
 Independent t-test
+
 Chi-square test
+
 ANOVA
+
 Relationship Analysis
+
 Covariance
+
 Correlation analysis
+
 Data Visualization
+
 Histograms
+
 Boxplots
+
 Correlation heatmaps
+
 Example Hypotheses
+
 Hypothesis 1
+
 H₀: Smoking has no effect on diabetes prevalence.
 H₁: Smoking affects diabetes prevalence.
+
 Hypothesis 2
+
 H₀: Mean blood pressure is equal across all regions.
 H₁: Mean blood pressure differs across regions.
 
@@ -77,22 +116,6 @@ StatsModels
 Matplotlib
 Seaborn
 Project Structure
-Derivable-Judgement/
-│
-├── data/
-│   └── health_data.csv
-│
-├── notebooks/
-│   └── Math3.ipynb
-│
-├── report/
-│   └── theory_report.pdf
-│
-├── screenshots/
-│
-├── requirements.txt
-│
-└── README.md
 
 git clone https://github.com/Mant-0957/Math3.git
 
